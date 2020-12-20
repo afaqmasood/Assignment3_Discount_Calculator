@@ -1,0 +1,12 @@
+{
+  "name": "Ass3",
+  "displayName": "Ass3",
+  "expo": {
+    "name": "Ass3",
+    "slug": "Ass3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
